@@ -41,8 +41,18 @@
 		<h4>Brush Area Chart</h4>
 		<ul>
 			<li><a href="brushareachart.php">Brush Area Chart</a></li>
-		</ul>		
+		</ul>	
 		
+		<h4>Force Diagram</h4>
+		<ul>
+			<li><a href="forcediagram.php">Force Diagram</a></li>
+		</ul>
+
+		<h4>Force Diagram with images</h4>
+		<ul>
+			<li><a href="forcediagramwithimages.php">Force Diagram with images</a></li>
+		</ul>
+
 		
 	</body>
 </html>
